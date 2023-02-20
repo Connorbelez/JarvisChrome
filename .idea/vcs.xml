@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Jarvis" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/OPENAIAPI" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/OPENAIBP/openai-quickstart-node" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gmailjs-node-boilerplate" vcs="Git" />
+  </component>
+</project>
